@@ -1,0 +1,87 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+}
+
+.zone_texte{
+    background-color: white;
+    border-radius: 15px;
+    width: 400px;
+    height: 450px;
+    margin: auto;
+    margin-left: 45%;
+    display: block;
+    margin-top: 10%;
+}
+
+.leftpic{
+    display: block;
+    width: 300px;
+    height: 450px;
+    position: absolute;
+    margin-left: 26%;
+}
+
+h1{
+    text-transform: capitalize;
+    color: grey;
+    font-size: 11px;
+    padding-top: 5%;
+    margin-left: 20%;
+}
+
+h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    margin-left: 20%;
+}
+
+h3{
+    font-size: 12px;
+    color: grey;
+    font-weight: bold;
+    margin-left: 20%;
+}
+
+h4{
+    font-size: 32px;
+    font-weight: bold;
+    color: green;
+    margin-left: 20%;
+}
+
+h5{
+    text-decoration: line-through;
+    color: grey;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 5%;
+    float: right;
+    padding-top: 5%;
+    padding-right: 35%;
+}
+
+p{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding-right: 27%;
+    padding-top: 3.5%;
+    float: right;
+}
+
+.zone_verte{
+    background-color: green;
+    border-radius: 5px;
+    height: 35px;
+    width: 250px;
+    display: block;
+    margin: auto;
+}
+
+.icon{
+    padding-left: 25%;
+    padding-top: 3.5%;
+}
